@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnasElmansari;
 - 👀 I’m interested in Software development and cyber security;
-- 🌱 I’m currently learning C, python, and sql while slowly reading and doing courses on cyber security;
+- 🌱 I’m currently learning multiple languges while working on projects;
 - 🚀 I’m looking to collaborate on project or internships that can develop my skills and network;
 - 📫 You can reach me on LinkedIn: Anas Elmansari or my email: Anasboldsen87@gmail.com
 
